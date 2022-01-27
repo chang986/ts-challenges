@@ -1,0 +1,14 @@
+{
+  "name": "ts-challenges",
+  "private": true,
+  "version": "0.0.0",
+  "repository": "https://github.com/chang986/ts-challenges.git",
+  "author": "Carr C <chang986@qq.com>",
+  "license": "MIT",
+  "scripts": {},
+    "devDependencies": {
+    "@type-challenges/utils": "workspace:*"
+  },
+  "dependencies": {},
+  "eslintConfig": {}
+}

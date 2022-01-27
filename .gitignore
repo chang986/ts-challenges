@@ -1,0 +1,7 @@
+node_modules/
+type-challenges-master/
+.DS_Store
+.idea
+dist
+*.log
+*.local
