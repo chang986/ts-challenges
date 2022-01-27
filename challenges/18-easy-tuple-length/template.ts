@@ -1,3 +1,1 @@
-type Length<T extends (string)[]> = T['length']
-
-// todo
+type Length<T extends readonly any[]> = T['length']
